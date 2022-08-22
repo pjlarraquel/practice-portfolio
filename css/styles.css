@@ -1,0 +1,247 @@
+body{
+    display: block;
+    margin: 0;
+    text-align: center;
+    font-family: verdana,sans-serif;
+    font-family: 'Merriweather', serif;
+    
+    
+}
+
+h1 {
+    padding-top: 230px;
+    margin-top: 20px;
+    margin: 0 auto 0 auto;
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    font-size: 6.35rem;
+    color: #66BFBF;
+    line-height: 1;
+}
+
+.sub-heading {
+    font-size: 2rem;
+    color: #66BFBF;
+    padding-top: 25px;
+}
+
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight:600;
+    font-size: 30px;
+    margin-top: 30px;
+    color: #66BFBF;
+}
+.bio {
+    padding-bottom: 50px;
+    width: 29%;
+    margin: auto;
+}
+
+span {
+    font-weight: 900;
+    
+}
+
+
+h3{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    color: #11999E;
+    display: inline-block;
+    width: 40%;
+}
+
+
+p {
+    text-align: center;
+    color: #40514E;
+}
+
+a {
+    color: #11999E;
+    font-weight: 300;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+a:hover{
+    color: #EAF6F6;
+}
+
+.footer-link-messenger{
+    margin: 25px;
+    text-decoration: none;
+}
+
+.footer-link-linkedin{
+    margin: 25px;
+    text-decoration: none;
+}
+.footer-link-facebook{
+    margin: 25px;
+    text-decoration: none;
+}
+.credits {
+    color: #EAF6F6;
+    margin-top: 20px;
+    color: #11999E;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.top-container {
+    position: relative;
+    background-color: #E7F6F2;
+    height: 965px;
+    line-height: 2rem;
+    
+}
+
+.middle-container {
+    margin: 50px auto 50px auto;
+}
+
+.bottom-container {
+    
+} 
+
+.top-clouds{
+    position: absolute;
+    height: 70px;
+    top: 13%;
+    right: 12%;
+    width: 20%;
+}
+
+.bot-clouds{
+    height: 70px;
+    position: absolute;
+    top: 54%;
+    left: 8%;
+}
+
+.bot-clouds2{
+    height: 90px;
+    position: absolute;
+    top: 56%;
+    left: 15%;
+}
+
+.mountain {
+    height: 500px;
+    position: absolute;
+    bottom: 0;
+    left: 30%;
+}
+
+.patimage {
+    height: 280px;
+    padding-top: 50px;
+}
+.skills{
+    padding-bottom: 70px;
+}
+.skill1-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+
+}
+.skill2-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    
+}
+
+.skill-row1 {
+    
+    width: 50%;
+    margin: 10px auto 150px auto;
+    text-align: left;
+    padding-top: 30px;
+    
+}
+.skill-row2 {
+    
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align:left;
+    padding-top: 10px;
+}
+
+
+.srow1{
+    text-align: left;
+    line-height: 2;
+    
+}
+.srow2 {
+    text-align: left;
+    line-height: 2;
+    
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+
+}
+
+.btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+}
+
+.hire-me{
+    padding-bottom: 10px;
+    line-height: 2;
+    width: 30%;
+    margin: 20px auto 40px;
+}
+.cp-num{
+    
+    width: 40%;
+    margin: 40px auto 0;
+}
+
+hr {
+    border: dotted #DAEAF1 6px;
+    background-color: #FFFFFF;
+    border-bottom: none;
+    width: 5%;
+}
+
+.touch{
+    margin top: 10px;
+}
+.contact-me {
+    padding-bottom: 30px;
+}
+.footer {
+    background-color: #66BFBF;
+    padding-bottom: 2px;
+    padding-top: 20px;
+}
+
+
+
+
+
